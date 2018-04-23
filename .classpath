@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Log4j/jxl-2.4.2.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Log4j/log4j-api-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Log4j/log4j-api-2.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Log4j/log4j-core.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Log4j/log4j-core-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/Log4j/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Eclipse Workspace/ValueAT/All Jars/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ValueATTest]">
+  <listeners>
+    <listener class-name="ValueATVerifier.CustomListener"/>
+  </listeners>
+  <test name="ValueATTest(failed)">
+    <classes>
+      <class name="ValueATTest.TestClass">
+        <methods>
+          <include name="endTest"/>
+          <include name="setUp"/>
+          <include name="BirlaFunds"/>
+        </methods>
+      </class> <!-- ValueATTest.TestClass -->
+    </classes>
+  </test> <!-- ValueATTest(failed) -->
+</suite> <!-- Failed suite [ValueATTest] -->

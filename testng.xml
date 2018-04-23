@@ -1,0 +1,11 @@
+<suite name="ValueATTest">
+<listeners>
+<listener class-name="ValueATVerifier.CustomListener"/>
+</listeners>
+	<test name="ValueATTest">
+		<classes>
+			<class name="ValueATTest.TestClass" />
+			
+		</classes>
+	</test>
+</suite>

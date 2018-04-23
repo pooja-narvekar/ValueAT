@@ -1,0 +1,1209 @@
+2018-04-09 01:21:20,649 - Google -INFO - Browser Opened
+2018-04-09 01:21:26,957 - Google -INFO - URL Loaded
+2018-04-09 11:11:53,606 - Google -INFO - Browser Opened
+2018-04-09 11:12:02,127 - Google -INFO - URL Loaded
+2018-04-09 11:14:44,895 - Google -INFO - Browser Opened
+2018-04-09 11:14:48,344 - Google -INFO - URL Loaded
+2018-04-09 11:20:37,270 - Google -INFO - Browser Opened
+2018-04-09 11:20:41,471 - Google -INFO - URL Loaded
+2018-04-11 12:17:13,293 - Google -INFO - Browser Opened
+2018-04-11 12:17:22,969 - Google -INFO - URL Loaded
+2018-04-11 12:21:04,753 - Google -INFO - Browser Opened
+2018-04-11 12:21:08,720 - Google -INFO - URL Loaded
+2018-04-11 12:51:12,558 - Google -INFO - Browser Opened
+2018-04-11 12:51:25,503 - Google -INFO - URL Loaded
+2018-04-11 13:01:32,780 - Google -INFO - Browser Opened
+2018-04-11 13:01:36,649 - Google -INFO - URL Loaded
+2018-04-11 13:07:42,295 - Google -INFO - Browser Opened
+2018-04-11 13:07:47,877 - Google -INFO - URL Loaded
+2018-04-11 14:12:04,407 - Automation Test -INFO - Browser Opened
+2018-04-11 14:12:04,515 - Automation Test -INFO - URL Loaded
+2018-04-11 14:12:04,516 - Automation Test -INFO - Browser Opened
+2018-04-11 14:12:04,516 - Automation Test -INFO - URL Loaded
+2018-04-11 14:12:04,518 - Automation Test -INFO - Browser Opened
+2018-04-11 14:12:04,518 - Automation Test -INFO - URL Loaded
+2018-04-11 14:12:04,519 - Automation Test -INFO - Browser Opened
+2018-04-11 14:12:04,519 - Automation Test -INFO - URL Loaded
+2018-04-11 14:12:04,520 - Automation Test -INFO - Browser Opened
+2018-04-11 14:12:04,520 - Automation Test -INFO - URL Loaded
+2018-04-11 14:12:14,805 - Automation Test -INFO - excelReaderClass.fundsName.get(counter)
+2018-04-11 14:18:57,780 - Automation Test -INFO - Browser Opened
+2018-04-11 14:18:57,835 - Automation Test -INFO - URL Loaded
+2018-04-11 14:18:57,835 - Automation Test -INFO - Total number of funds available in excel sheet is " +fundsName.size()
+2018-04-11 14:19:08,262 - Automation Test -INFO - excelReaderClass.fundsName.get(counter)
+2018-04-11 14:19:33,380 - Automation Test -INFO - excelReaderClass.fundsName.get(counter)
+2018-04-11 14:33:12,301 - Automation Test -INFO - Browser Opened
+2018-04-11 14:33:12,309 - Automation Test -INFO - URL Loaded
+2018-04-11 14:33:12,310 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-11 14:33:23,511 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-11 14:33:48,409 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-11 14:39:31,225 - Automation Test -INFO - Browser Opened
+2018-04-11 14:39:31,309 - Automation Test -INFO - URL Loaded
+2018-04-11 14:39:31,309 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-11 14:39:42,604 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-11 14:40:07,411 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-11 14:42:11,746 - Automation Test -INFO - Browser Opened
+2018-04-11 14:42:11,752 - Automation Test -INFO - URL Loaded
+2018-04-11 14:42:11,753 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-11 14:42:22,917 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-11 14:42:41,630 - Automation Test -INFO - NET RET is 52.86
+2018-04-11 14:42:41,719 - Automation Test -INFO - GROSS RET is 57.18
+2018-04-11 14:42:48,072 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-11 14:43:01,104 - Automation Test -INFO - NET RET is 73.97
+2018-04-11 14:43:01,233 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-11 14:51:06,676 - Automation Test -INFO - Browser Opened
+2018-04-11 14:51:06,682 - Automation Test -INFO - URL Loaded
+2018-04-11 14:51:06,683 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-11 14:51:17,913 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-11 14:51:37,238 - Automation Test -INFO - NET RET is 52.86
+2018-04-11 14:51:37,327 - Automation Test -INFO - GROSS RET is 57.18
+2018-04-11 14:51:37,327 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.32
+2018-04-11 14:51:37,615 - Automation Test -INFO - NET Alpha is 12.62
+2018-04-11 14:51:37,715 - Automation Test -INFO - GROSS Alpha is 15.87
+2018-04-11 14:51:37,715 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.25
+2018-04-11 14:51:43,794 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-11 14:51:57,185 - Automation Test -INFO - NET RET is 73.97
+2018-04-11 14:51:57,289 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-11 14:51:57,289 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-11 14:51:57,411 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-11 14:51:57,528 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-11 14:51:57,530 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-11 20:38:12,885 - Automation Test -INFO - Browser Opened
+2018-04-11 20:38:12,931 - Automation Test -INFO - URL Loaded
+2018-04-11 20:38:12,932 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-11 20:39:55,674 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-11 20:40:14,611 - Automation Test -INFO - NET RET is 52.86
+2018-04-11 20:40:14,774 - Automation Test -INFO - GROSS RET is 57.18
+2018-04-11 20:40:14,775 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.32
+2018-04-11 20:44:09,489 - Automation Test -INFO - Browser Opened
+2018-04-11 20:44:09,495 - Automation Test -INFO - URL Loaded
+2018-04-11 20:44:09,495 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-11 20:45:48,869 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-11 20:46:07,539 - Automation Test -INFO - NET RET is 52.86
+2018-04-11 20:46:07,624 - Automation Test -INFO - GROSS RET is 57.18
+2018-04-11 20:46:07,625 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.32
+2018-04-11 20:52:15,191 - Automation Test -INFO - Browser Opened
+2018-04-11 20:52:15,191 - Automation Test -INFO - URL Loaded
+2018-04-11 20:52:15,191 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-11 20:52:49,662 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-11 20:53:08,061 - Automation Test -INFO - NET RET is 52.86
+2018-04-11 20:53:08,141 - Automation Test -INFO - GROSS RET is 57.18
+2018-04-11 20:53:08,141 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.32
+2018-04-11 20:53:08,235 - Automation Test -INFO - NET Alpha is 12.62
+2018-04-11 20:53:08,360 - Automation Test -INFO - GROSS Alpha is 15.87
+2018-04-11 20:53:08,360 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.25
+2018-04-11 20:53:08,360 - Automation Test -INFO - Test completed for fund Birla Sun Life Advantage Fund [ADVG]
+2018-04-11 20:53:08,360 - Automation Test -INFO - *****************************************************
+2018-04-11 20:53:14,360 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-11 20:53:27,587 - Automation Test -INFO - NET RET is 73.97
+2018-04-11 20:53:27,707 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-11 20:53:27,707 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-11 20:53:27,801 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-11 20:53:27,910 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-11 20:53:27,910 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-11 20:53:27,910 - Automation Test -INFO - Test completed for fund Birla Sun Life Pure Value Fund [PURE]
+2018-04-11 20:53:27,910 - Automation Test -INFO - *****************************************************
+2018-04-11 21:13:47,433 - Automation Test -INFO - Browser Opened
+2018-04-11 21:13:47,442 - Automation Test -INFO - URL Loaded
+2018-04-11 21:13:47,442 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-11 21:14:07,987 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-11 21:14:26,650 - Automation Test -INFO - NET RET is 52.86
+2018-04-11 21:14:26,738 - Automation Test -INFO - GROSS RET is 57.18
+2018-04-11 21:14:26,738 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.32
+2018-04-11 21:14:26,850 - Automation Test -INFO - NET Alpha is 12.62
+2018-04-11 21:14:26,962 - Automation Test -INFO - GROSS Alpha is 15.87
+2018-04-11 21:14:26,962 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.25
+2018-04-11 21:14:26,966 - Automation Test -INFO - Test completed for fund Birla Sun Life Advantage Fund [ADVG]
+2018-04-11 21:14:26,966 - Automation Test -INFO - *****************************************************
+2018-04-11 21:14:33,268 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-11 21:14:47,011 - Automation Test -INFO - NET RET is 73.97
+2018-04-11 21:14:47,147 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-11 21:14:47,151 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-11 21:14:47,247 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-11 21:14:47,343 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-11 21:14:47,343 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-11 21:14:47,343 - Automation Test -INFO - Test completed for fund Birla Sun Life Pure Value Fund [PURE]
+2018-04-11 21:14:47,343 - Automation Test -INFO - *****************************************************
+2018-04-12 18:52:47,905 - Automation Test -INFO - Browser Opened
+2018-04-12 18:52:47,957 - Automation Test -INFO - URL Loaded
+2018-04-12 18:52:47,958 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-12 18:53:03,425 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-12 18:53:22,366 - Automation Test -INFO - NET RET is 53.4
+2018-04-12 18:53:22,474 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-12 18:53:22,474 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-12 18:53:22,609 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-12 18:53:22,719 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-12 18:53:22,719 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-12 18:53:22,719 - Automation Test -INFO - Test completed for fund Birla Sun Life Advantage Fund [ADVG]
+2018-04-12 18:53:22,720 - Automation Test -INFO - *****************************************************
+2018-04-12 18:53:28,793 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-12 18:53:42,018 - Automation Test -INFO - NET RET is 73.97
+2018-04-12 18:53:42,143 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-12 18:53:42,143 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-12 18:53:42,258 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-12 18:53:42,382 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-12 18:53:42,383 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-12 18:53:42,383 - Automation Test -INFO - Test completed for fund Birla Sun Life Pure Value Fund [PURE]
+2018-04-12 18:53:42,383 - Automation Test -INFO - *****************************************************
+2018-04-12 19:21:44,020 - Automation Test -INFO - Browser Opened
+2018-04-12 19:21:44,069 - Automation Test -INFO - URL Loaded
+2018-04-12 19:21:44,069 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-12 19:21:56,542 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-12 19:22:15,692 - Automation Test -INFO - NET RET is 53.4
+2018-04-12 19:22:15,815 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-12 19:22:15,816 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-12 19:22:15,962 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-12 19:22:16,063 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-12 19:22:16,064 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-12 19:22:16,064 - Automation Test -INFO - Test completed for fund Birla Sun Life Advantage Fund [ADVG]
+2018-04-12 19:22:16,066 - Automation Test -INFO - *****************************************************
+2018-04-12 19:28:34,900 - Automation Test -INFO - Browser Opened
+2018-04-12 19:28:34,906 - Automation Test -INFO - URL Loaded
+2018-04-12 19:28:34,906 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-12 19:28:46,203 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-12 19:29:06,193 - Automation Test -INFO - NET RET is 53.4
+2018-04-12 19:29:06,295 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-12 19:29:06,295 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-12 19:29:06,429 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-12 19:29:06,523 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-12 19:29:06,523 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-12 19:29:06,524 - Automation Test -INFO - Test completed for fund Birla Sun Life Advantage Fund [ADVG]
+2018-04-12 19:29:06,524 - Automation Test -INFO - *****************************************************
+2018-04-12 19:29:13,281 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-12 19:29:26,347 - Automation Test -INFO - NET RET is 73.97
+2018-04-12 19:29:26,446 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-12 19:29:26,447 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-12 19:29:26,570 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-12 19:29:26,678 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-12 19:29:26,679 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-12 19:29:26,680 - Automation Test -INFO - Test completed for fund Birla Sun Life Pure Value Fund [PURE]
+2018-04-12 19:29:26,681 - Automation Test -INFO - *****************************************************
+2018-04-12 19:35:07,800 - Automation Test -INFO - Browser Opened
+2018-04-12 19:35:07,807 - Automation Test -INFO - URL Loaded
+2018-04-12 19:35:07,807 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-12 19:35:19,253 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-12 19:35:38,544 - Automation Test -INFO - NET RET is 53.4
+2018-04-12 19:35:38,644 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-12 19:35:38,645 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-12 19:35:38,776 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-12 19:35:38,882 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-12 19:35:38,882 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-12 19:35:38,883 - Automation Test -INFO - Test completed for fund Birla Sun Life Advantage Fund [ADVG]
+2018-04-12 19:35:38,883 - Automation Test -INFO - *****************************************************
+2018-04-12 19:35:45,673 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-12 19:35:59,255 - Automation Test -INFO - NET RET is 73.97
+2018-04-12 19:35:59,363 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-12 19:35:59,364 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-12 19:35:59,471 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-12 19:35:59,567 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-12 19:35:59,568 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-12 19:35:59,569 - Automation Test -INFO - Test completed for fund Birla Sun Life Pure Value Fund [PURE]
+2018-04-12 19:35:59,569 - Automation Test -INFO - *****************************************************
+2018-04-13 00:31:44,214 - Automation Test -INFO - Browser Opened
+2018-04-13 00:31:44,305 - Automation Test -INFO - URL Loaded
+2018-04-13 00:31:44,305 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 00:32:21,347 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 00:34:20,680 - Automation Test -INFO - Browser Opened
+2018-04-13 00:34:20,695 - Automation Test -INFO - URL Loaded
+2018-04-13 00:34:20,695 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 00:35:09,726 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 00:35:29,503 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 00:35:29,708 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 00:35:29,708 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 00:35:29,802 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 00:35:29,911 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 00:35:29,911 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 00:35:29,911 - Automation Test -INFO - Test completed for fund Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 00:35:29,911 - Automation Test -INFO - *****************************************************
+2018-04-13 00:38:29,968 - Automation Test -INFO - Browser Opened
+2018-04-13 00:38:29,976 - Automation Test -INFO - URL Loaded
+2018-04-13 00:38:29,976 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 00:38:52,095 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 00:39:09,427 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 00:39:09,466 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 00:39:09,466 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 00:39:09,528 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 00:39:09,606 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 00:39:09,606 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 00:39:09,606 - Automation Test -INFO - Test completed for fund Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 00:39:09,606 - Automation Test -INFO - *****************************************************
+2018-04-13 00:44:46,894 - Automation Test -INFO - Browser Opened
+2018-04-13 00:44:46,907 - Automation Test -INFO - URL Loaded
+2018-04-13 00:44:46,907 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 00:45:30,574 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 00:49:52,212 - Automation Test -INFO - Browser Opened
+2018-04-13 00:49:52,232 - Automation Test -INFO - URL Loaded
+2018-04-13 00:49:52,232 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 00:50:55,197 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 00:53:43,982 - Automation Test -INFO - Browser Opened
+2018-04-13 00:53:43,988 - Automation Test -INFO - URL Loaded
+2018-04-13 00:53:43,988 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 00:54:26,753 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 00:56:57,004 - Automation Test -INFO - Browser Opened
+2018-04-13 00:56:57,014 - Automation Test -INFO - URL Loaded
+2018-04-13 00:56:57,014 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 00:57:25,047 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 01:01:14,465 - Automation Test -INFO - Browser Opened
+2018-04-13 01:01:14,475 - Automation Test -INFO - URL Loaded
+2018-04-13 01:01:14,475 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 01:01:36,019 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 01:05:30,486 - Automation Test -INFO - Browser Opened
+2018-04-13 01:05:30,501 - Automation Test -INFO - URL Loaded
+2018-04-13 01:05:30,501 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 01:06:00,021 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 01:08:09,158 - Automation Test -INFO - Browser Opened
+2018-04-13 01:08:09,181 - Automation Test -INFO - URL Loaded
+2018-04-13 01:08:09,181 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 01:08:33,033 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 09:43:59,563 - Automation Test -INFO - Browser Opened
+2018-04-13 09:43:59,613 - Automation Test -INFO - URL Loaded
+2018-04-13 09:43:59,613 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 09:44:14,867 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 09:52:43,572 - Automation Test -INFO - Browser Opened
+2018-04-13 09:52:43,577 - Automation Test -INFO - URL Loaded
+2018-04-13 09:52:43,577 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 09:52:54,446 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 09:59:55,296 - Automation Test -INFO - Browser Opened
+2018-04-13 09:59:55,302 - Automation Test -INFO - URL Loaded
+2018-04-13 09:59:55,303 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:01:50,128 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:02:38,305 - Automation Test -INFO - Browser Opened
+2018-04-13 10:02:38,313 - Automation Test -INFO - URL Loaded
+2018-04-13 10:02:38,314 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:02:49,136 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:08:20,073 - Automation Test -INFO - Browser Opened
+2018-04-13 10:08:20,079 - Automation Test -INFO - URL Loaded
+2018-04-13 10:08:20,079 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:08:30,824 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:09:49,244 - Automation Test -INFO - Browser Opened
+2018-04-13 10:09:49,250 - Automation Test -INFO - URL Loaded
+2018-04-13 10:09:49,250 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:10:00,122 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:12:10,323 - Automation Test -INFO - Browser Opened
+2018-04-13 10:12:10,329 - Automation Test -INFO - URL Loaded
+2018-04-13 10:12:10,329 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:12:21,074 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:14:56,683 - Automation Test -INFO - Browser Opened
+2018-04-13 10:14:56,690 - Automation Test -INFO - URL Loaded
+2018-04-13 10:14:56,690 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:15:09,477 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:24:13,870 - Automation Test -INFO - Browser Opened
+2018-04-13 10:24:13,878 - Automation Test -INFO - URL Loaded
+2018-04-13 10:24:13,879 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:24:24,685 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:24:41,499 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 10:24:41,544 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 10:24:41,545 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 10:24:41,590 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 10:24:41,636 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 10:24:41,636 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 10:29:38,275 - Automation Test -INFO - Browser Opened
+2018-04-13 10:29:38,282 - Automation Test -INFO - URL Loaded
+2018-04-13 10:29:38,282 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:29:49,320 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:30:06,017 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 10:30:06,066 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 10:30:06,067 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 10:30:06,124 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 10:30:06,173 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 10:30:06,174 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 10:31:14,836 - Automation Test -INFO - Browser Opened
+2018-04-13 10:31:14,842 - Automation Test -INFO - URL Loaded
+2018-04-13 10:31:14,843 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:31:25,729 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:31:42,592 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 10:31:42,641 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 10:31:42,641 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 10:31:42,687 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 10:31:42,732 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 10:31:42,732 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 10:40:01,855 - Automation Test -INFO - Browser Opened
+2018-04-13 10:40:01,861 - Automation Test -INFO - URL Loaded
+2018-04-13 10:40:01,861 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:40:13,003 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:40:30,181 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 10:40:30,236 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 10:40:30,237 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 10:40:30,289 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 10:40:30,344 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 10:40:30,344 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 10:45:55,722 - Automation Test -INFO - Browser Opened
+2018-04-13 10:45:55,729 - Automation Test -INFO - URL Loaded
+2018-04-13 10:45:55,729 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:46:06,677 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:46:23,647 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 10:46:23,698 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 10:46:23,699 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 10:46:23,751 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 10:46:23,807 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 10:46:23,807 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 10:52:03,207 - Automation Test -INFO - Browser Opened
+2018-04-13 10:52:03,213 - Automation Test -INFO - URL Loaded
+2018-04-13 10:52:03,213 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:52:15,704 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:52:32,989 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 10:52:33,061 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 10:52:33,062 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 10:52:33,212 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 10:52:33,272 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 10:52:33,272 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 10:54:19,315 - Automation Test -INFO - Browser Opened
+2018-04-13 10:54:19,323 - Automation Test -INFO - URL Loaded
+2018-04-13 10:54:19,324 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:54:30,154 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:54:47,224 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 10:54:47,276 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 10:54:47,277 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 10:54:47,330 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 10:54:47,386 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 10:54:47,386 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 10:54:53,703 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 10:57:31,941 - Automation Test -INFO - Browser Opened
+2018-04-13 10:57:31,946 - Automation Test -INFO - URL Loaded
+2018-04-13 10:57:31,946 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 10:57:43,678 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 10:58:00,728 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 10:58:00,787 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 10:58:00,787 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 10:58:00,850 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 10:58:00,914 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 10:58:00,915 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 10:58:07,304 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 10:58:18,894 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 10:58:18,951 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 10:58:18,951 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 10:58:19,017 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 10:58:19,119 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 10:58:19,121 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:06:37,171 - Automation Test -INFO - Browser Opened
+2018-04-13 11:06:37,175 - Automation Test -INFO - URL Loaded
+2018-04-13 11:06:37,176 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:06:48,048 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:07:04,987 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:07:05,068 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:07:05,069 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:07:05,133 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:07:05,196 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:07:05,196 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:07:11,493 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:07:23,191 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:07:23,250 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:07:23,250 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:07:23,315 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:07:23,376 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:07:23,378 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:08:53,922 - Automation Test -INFO - Browser Opened
+2018-04-13 11:08:53,926 - Automation Test -INFO - URL Loaded
+2018-04-13 11:08:53,927 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:09:04,866 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:09:21,789 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:09:21,839 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:09:21,840 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:09:21,892 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:09:21,944 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:09:21,944 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:09:28,228 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:09:39,937 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:09:39,994 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:09:39,994 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:09:40,058 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:09:40,129 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:09:40,130 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:14:10,618 - Automation Test -INFO - Browser Opened
+2018-04-13 11:14:10,627 - Automation Test -INFO - URL Loaded
+2018-04-13 11:14:10,627 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:14:21,417 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:14:38,847 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:14:38,921 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:14:38,922 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:14:38,995 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:14:39,072 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:14:39,072 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:14:45,438 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:14:56,954 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:14:57,031 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:14:57,032 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:14:57,088 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:14:57,152 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:14:57,153 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:17:06,073 - Automation Test -INFO - Browser Opened
+2018-04-13 11:17:06,079 - Automation Test -INFO - URL Loaded
+2018-04-13 11:17:06,079 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:17:16,931 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:17:33,895 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:17:33,955 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:17:33,955 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:17:34,012 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:17:34,069 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:17:34,069 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:17:40,475 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:17:51,905 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:17:51,955 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:17:51,955 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:17:52,007 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:17:52,063 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:17:52,064 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:19:15,645 - Automation Test -INFO - Browser Opened
+2018-04-13 11:19:15,649 - Automation Test -INFO - URL Loaded
+2018-04-13 11:19:15,650 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:19:26,693 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:19:43,616 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:19:43,679 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:19:43,680 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:19:43,738 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:19:43,801 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:19:43,802 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:19:50,133 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:20:01,608 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:20:01,661 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:20:01,661 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:20:01,720 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:20:01,775 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:20:01,777 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:22:36,766 - Automation Test -INFO - Browser Opened
+2018-04-13 11:22:36,774 - Automation Test -INFO - URL Loaded
+2018-04-13 11:22:36,774 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:22:47,857 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:23:04,799 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:23:04,867 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:23:04,868 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:23:04,932 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:23:04,999 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:23:05,000 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:23:11,425 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:23:22,955 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:23:23,061 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:23:23,061 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:23:23,121 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:23:23,184 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:23:23,185 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:25:44,359 - Automation Test -INFO - Browser Opened
+2018-04-13 11:25:44,366 - Automation Test -INFO - URL Loaded
+2018-04-13 11:25:44,367 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:25:55,210 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:26:12,370 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:26:12,423 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:26:12,423 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:26:12,478 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:26:12,532 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:26:12,533 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:26:18,833 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:26:30,288 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:26:30,357 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:26:30,358 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:26:30,417 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:26:30,479 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:26:30,481 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:28:21,825 - Automation Test -INFO - Browser Opened
+2018-04-13 11:28:21,831 - Automation Test -INFO - URL Loaded
+2018-04-13 11:28:21,831 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:28:32,696 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:28:49,717 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:28:49,775 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:28:49,775 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:28:49,831 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:28:49,885 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:28:49,885 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:29:00,462 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:29:12,195 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:29:12,274 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:29:12,274 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:29:12,354 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:29:12,437 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:29:12,439 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:30:42,916 - Automation Test -INFO - Browser Opened
+2018-04-13 11:30:42,920 - Automation Test -INFO - URL Loaded
+2018-04-13 11:30:42,921 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:30:53,822 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:31:10,908 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:31:10,960 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:31:10,961 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:31:11,014 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:31:11,067 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:31:11,068 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:31:21,391 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:31:33,067 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:31:33,130 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:31:33,130 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:31:33,211 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:31:33,271 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:31:33,272 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:32:26,917 - Automation Test -INFO - Browser Opened
+2018-04-13 11:32:26,925 - Automation Test -INFO - URL Loaded
+2018-04-13 11:32:26,925 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:32:37,752 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:32:54,637 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:32:54,689 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:32:54,690 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:32:54,746 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:32:54,808 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:32:54,808 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:33:05,274 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:33:16,705 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:33:16,758 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:33:16,759 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:33:16,814 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:33:16,874 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:33:16,875 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:35:27,704 - Automation Test -INFO - Browser Opened
+2018-04-13 11:35:27,712 - Automation Test -INFO - URL Loaded
+2018-04-13 11:35:27,712 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:35:38,571 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:35:55,479 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:35:55,532 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:35:55,532 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:35:55,585 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:35:55,641 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:35:55,642 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:36:06,250 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:36:17,756 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:36:17,825 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:36:17,825 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:36:17,899 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:36:17,980 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:36:17,982 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:37:47,106 - Automation Test -INFO - Browser Opened
+2018-04-13 11:37:47,114 - Automation Test -INFO - URL Loaded
+2018-04-13 11:37:47,115 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:37:57,988 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:38:14,954 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:38:15,007 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:38:15,007 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:38:15,063 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:38:15,122 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:38:15,123 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:38:25,705 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:38:37,476 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:38:37,531 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:38:37,531 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:38:37,596 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:38:37,655 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:38:37,656 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:41:24,001 - Automation Test -INFO - Browser Opened
+2018-04-13 11:41:24,008 - Automation Test -INFO - URL Loaded
+2018-04-13 11:41:24,010 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:41:34,942 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:41:51,861 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:41:51,915 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:41:51,916 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:41:51,971 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:41:52,025 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:41:52,025 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:42:02,521 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:42:14,076 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:42:14,136 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:42:14,136 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:42:14,194 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:42:14,259 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:42:14,261 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 11:45:03,073 - Automation Test -INFO - Browser Opened
+2018-04-13 11:45:03,080 - Automation Test -INFO - URL Loaded
+2018-04-13 11:45:03,081 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 11:45:13,974 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 11:45:30,875 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 11:45:30,929 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 11:45:30,929 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 11:45:30,985 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 11:45:31,040 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 11:45:31,040 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 11:45:41,481 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 11:45:53,041 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 11:45:53,119 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 11:45:53,119 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 11:45:53,202 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 11:45:53,283 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 11:45:53,285 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-13 12:00:30,042 - Automation Test -INFO - Browser Opened
+2018-04-13 12:00:30,048 - Automation Test -INFO - URL Loaded
+2018-04-13 12:00:30,049 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-13 12:00:42,251 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-13 12:00:59,538 - Automation Test -INFO - NET RET is 53.4
+2018-04-13 12:00:59,592 - Automation Test -INFO - GROSS RET is 57.76
+2018-04-13 12:00:59,592 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.36
+2018-04-13 12:00:59,660 - Automation Test -INFO - NET Alpha is 12.61
+2018-04-13 12:00:59,756 - Automation Test -INFO - GROSS Alpha is 15.9
+2018-04-13 12:00:59,757 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.29
+2018-04-13 12:01:10,374 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-13 12:01:22,175 - Automation Test -INFO - NET RET is 73.97
+2018-04-13 12:01:22,236 - Automation Test -INFO - GROSS RET is 81.63
+2018-04-13 12:01:22,236 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.66
+2018-04-13 12:01:22,309 - Automation Test -INFO - NET Alpha is 33.18
+2018-04-13 12:01:22,394 - Automation Test -INFO - GROSS Alpha is 39.2
+2018-04-13 12:01:22,396 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.02
+2018-04-15 12:19:34,187 - Automation Test -INFO - Browser Opened
+2018-04-15 12:19:34,253 - Automation Test -INFO - URL Loaded
+2018-04-15 12:19:34,254 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 12:19:45,891 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 12:20:50,853 - Automation Test -INFO - Browser Opened
+2018-04-15 12:20:50,857 - Automation Test -INFO - URL Loaded
+2018-04-15 12:20:50,858 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 12:21:02,062 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 12:21:21,551 - Automation Test -INFO - NET RET is 54.14
+2018-04-15 12:21:21,636 - Automation Test -INFO - GROSS RET is 58.53
+2018-04-15 12:21:21,637 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.39
+2018-04-15 12:21:21,724 - Automation Test -INFO - NET Alpha is 12.24
+2018-04-15 12:21:21,892 - Automation Test -INFO - GROSS Alpha is 15.74
+2018-04-15 12:21:21,893 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.5
+2018-04-15 12:21:33,259 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 12:21:46,925 - Automation Test -INFO - NET RET is 72.07
+2018-04-15 12:21:47,157 - Automation Test -INFO - GROSS RET is 79.66
+2018-04-15 12:21:47,158 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.59
+2018-04-15 12:21:47,368 - Automation Test -INFO - NET Alpha is 30.17
+2018-04-15 12:21:47,546 - Automation Test -INFO - GROSS Alpha is 36.46
+2018-04-15 12:21:47,549 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.29
+2018-04-15 12:33:28,956 - Automation Test -INFO - Browser Opened
+2018-04-15 12:33:28,961 - Automation Test -INFO - URL Loaded
+2018-04-15 12:33:28,961 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 12:33:40,224 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 12:33:59,510 - Automation Test -INFO - NET RET is 54.14
+2018-04-15 12:33:59,595 - Automation Test -INFO - GROSS RET is 58.53
+2018-04-15 12:33:59,595 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.39
+2018-04-15 12:33:59,711 - Automation Test -INFO - NET Alpha is 12.24
+2018-04-15 12:33:59,813 - Automation Test -INFO - GROSS Alpha is 15.74
+2018-04-15 12:33:59,814 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.5
+2018-04-15 12:34:11,360 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 12:35:48,648 - Automation Test -INFO - Browser Opened
+2018-04-15 12:35:48,656 - Automation Test -INFO - URL Loaded
+2018-04-15 12:35:48,657 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 12:36:00,636 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 12:36:20,125 - Automation Test -INFO - NET RET is 54.14
+2018-04-15 12:36:20,245 - Automation Test -INFO - GROSS RET is 58.53
+2018-04-15 12:36:20,245 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.39
+2018-04-15 12:36:20,384 - Automation Test -INFO - NET Alpha is 12.24
+2018-04-15 12:36:20,486 - Automation Test -INFO - GROSS Alpha is 15.74
+2018-04-15 12:36:20,487 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.5
+2018-04-15 12:36:32,397 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 12:36:46,137 - Automation Test -INFO - NET RET is 72.07
+2018-04-15 12:36:46,324 - Automation Test -INFO - GROSS RET is 79.66
+2018-04-15 12:36:46,325 - Automation Test -INFO - Difference between NET RET and GROSS RET is 7.59
+2018-04-15 12:36:46,475 - Automation Test -INFO - NET Alpha is 30.17
+2018-04-15 12:36:46,612 - Automation Test -INFO - GROSS Alpha is 36.46
+2018-04-15 12:36:46,614 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 6.29
+2018-04-15 15:27:16,911 - Automation Test -INFO - Browser Opened
+2018-04-15 15:27:17,004 - Automation Test -INFO - URL Loaded
+2018-04-15 15:27:17,004 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 15:27:28,067 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 15:32:17,903 - Automation Test -INFO - Browser Opened
+2018-04-15 15:32:17,988 - Automation Test -INFO - URL Loaded
+2018-04-15 15:32:17,988 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 15:32:29,249 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 15:32:53,551 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 15:36:58,147 - Automation Test -INFO - Browser Opened
+2018-04-15 15:36:58,154 - Automation Test -INFO - URL Loaded
+2018-04-15 15:36:58,154 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 15:37:09,086 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 15:37:33,351 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 16:14:50,122 - Automation Test -INFO - Browser Opened
+2018-04-15 16:14:50,138 - Automation Test -INFO - URL Loaded
+2018-04-15 16:14:50,139 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 16:15:01,025 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 16:16:47,076 - Automation Test -INFO - Browser Opened
+2018-04-15 16:16:47,081 - Automation Test -INFO - URL Loaded
+2018-04-15 16:16:47,081 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 16:16:57,922 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 16:17:21,526 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 16:26:29,520 - Automation Test -INFO - Browser Opened
+2018-04-15 16:26:29,531 - Automation Test -INFO - URL Loaded
+2018-04-15 16:26:29,531 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 16:26:40,369 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 16:27:04,087 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 16:30:18,623 - Automation Test -INFO - Browser Opened
+2018-04-15 16:30:18,631 - Automation Test -INFO - URL Loaded
+2018-04-15 16:30:18,631 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 16:30:29,481 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 16:30:53,193 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 16:59:35,638 - Automation Test -INFO - Browser Opened
+2018-04-15 16:59:35,648 - Automation Test -INFO - URL Loaded
+2018-04-15 16:59:35,648 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 16:59:46,475 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 17:02:52,701 - Automation Test -INFO - Browser Opened
+2018-04-15 17:02:52,711 - Automation Test -INFO - URL Loaded
+2018-04-15 17:02:52,711 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 17:03:03,605 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 17:04:36,160 - Automation Test -INFO - Browser Opened
+2018-04-15 17:04:36,167 - Automation Test -INFO - URL Loaded
+2018-04-15 17:04:36,168 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 17:04:46,977 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 17:07:38,300 - Automation Test -INFO - Browser Opened
+2018-04-15 17:07:38,306 - Automation Test -INFO - URL Loaded
+2018-04-15 17:07:38,308 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 17:07:49,165 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 17:08:12,963 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 17:48:07,683 - Automation Test -INFO - Browser Opened
+2018-04-15 17:48:07,692 - Automation Test -INFO - URL Loaded
+2018-04-15 17:48:07,692 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 17:48:18,694 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 17:51:31,219 - Automation Test -INFO - Browser Opened
+2018-04-15 17:51:31,227 - Automation Test -INFO - URL Loaded
+2018-04-15 17:51:31,228 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 17:51:42,181 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 17:52:06,936 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 18:09:48,132 - Automation Test -INFO - Browser Opened
+2018-04-15 18:09:48,141 - Automation Test -INFO - URL Loaded
+2018-04-15 18:09:48,142 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 18:09:59,297 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 18:10:24,322 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 18:16:44,230 - Automation Test -INFO - Browser Opened
+2018-04-15 18:16:44,241 - Automation Test -INFO - URL Loaded
+2018-04-15 18:16:44,241 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 18:16:55,206 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 18:17:19,946 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 19:24:36,920 - Automation Test -INFO - Browser Opened
+2018-04-15 19:24:37,010 - Automation Test -INFO - URL Loaded
+2018-04-15 19:24:37,010 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 19:24:48,199 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 19:25:12,795 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 19:57:58,012 - Automation Test -INFO - Browser Opened
+2018-04-15 19:57:58,020 - Automation Test -INFO - URL Loaded
+2018-04-15 19:57:58,023 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 19:58:08,906 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 19:58:45,002 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 20:01:27,755 - Automation Test -INFO - Browser Opened
+2018-04-15 20:01:27,762 - Automation Test -INFO - URL Loaded
+2018-04-15 20:01:27,762 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 20:01:39,926 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 20:02:16,181 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 20:08:35,866 - Automation Test -INFO - Browser Opened
+2018-04-15 20:08:35,964 - Automation Test -INFO - URL Loaded
+2018-04-15 20:08:35,964 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 20:08:47,131 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 20:09:23,071 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 20:21:49,018 - Automation Test -INFO - Browser Opened
+2018-04-15 20:21:49,095 - Automation Test -INFO - URL Loaded
+2018-04-15 20:21:49,095 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 20:22:00,052 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 20:22:30,112 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 20:36:05,164 - Automation Test -INFO - Browser Opened
+2018-04-15 20:36:05,226 - Automation Test -INFO - URL Loaded
+2018-04-15 20:36:05,227 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 20:36:16,291 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 20:36:46,250 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-15 23:28:24,228 - Automation Test -INFO - Browser Opened
+2018-04-15 23:28:24,271 - Automation Test -INFO - URL Loaded
+2018-04-15 23:28:24,271 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 23:28:35,028 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 23:36:32,978 - Automation Test -INFO - Browser Opened
+2018-04-15 23:36:32,987 - Automation Test -INFO - URL Loaded
+2018-04-15 23:36:32,987 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 23:36:43,551 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-15 23:59:17,613 - Automation Test -INFO - Browser Opened
+2018-04-15 23:59:17,627 - Automation Test -INFO - URL Loaded
+2018-04-15 23:59:17,627 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-15 23:59:28,238 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-16 16:29:00,934 - Automation Test -INFO - Browser Opened
+2018-04-16 16:29:01,255 - Automation Test -INFO - URL Loaded
+2018-04-16 16:29:01,256 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-16 16:29:12,705 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-16 18:50:03,447 - Automation Test -INFO - Browser Opened
+2018-04-16 18:50:04,703 - Automation Test -INFO - URL Loaded
+2018-04-16 18:50:04,703 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-16 18:50:18,580 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-16 18:52:50,794 - Automation Test -INFO - Browser Opened
+2018-04-16 18:52:51,161 - Automation Test -INFO - URL Loaded
+2018-04-16 18:52:51,161 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-16 18:53:02,666 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 15:15:00,600 - Automation Test -INFO - Browser Opened
+2018-04-17 15:15:00,656 - Automation Test -INFO - URL Loaded
+2018-04-17 15:15:00,656 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 15:15:21,077 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 15:34:35,994 - Automation Test -INFO - Browser Opened
+2018-04-17 15:34:36,000 - Automation Test -INFO - URL Loaded
+2018-04-17 15:34:36,001 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 15:34:46,868 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 15:44:16,763 - Automation Test -INFO - Browser Opened
+2018-04-17 15:44:16,770 - Automation Test -INFO - URL Loaded
+2018-04-17 15:44:16,770 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 15:44:27,552 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 15:44:44,722 - Automation Test -INFO - NET RET is 54.64
+2018-04-17 15:44:44,752 - Automation Test -INFO - GROSS RET is 59.06
+2018-04-17 15:44:44,752 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.42
+2018-04-17 15:44:44,768 - Automation Test -INFO - NET Alpha is 12.04
+2018-04-17 15:44:44,784 - Automation Test -INFO - GROSS Alpha is 15.35
+2018-04-17 15:44:44,784 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.31
+2018-04-17 15:47:11,597 - Automation Test -INFO - Browser Opened
+2018-04-17 15:47:11,604 - Automation Test -INFO - URL Loaded
+2018-04-17 15:47:11,604 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 15:47:22,416 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 15:47:39,633 - Automation Test -INFO - NET RET is 54.64
+2018-04-17 15:47:39,642 - Automation Test -INFO - GROSS RET is 59.06
+2018-04-17 15:47:39,657 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.42
+2018-04-17 15:47:39,673 - Automation Test -INFO - NET Alpha is 12.04
+2018-04-17 15:47:39,688 - Automation Test -INFO - GROSS Alpha is 15.35
+2018-04-17 15:47:39,688 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.31
+2018-04-17 15:55:31,707 - Automation Test -INFO - Browser Opened
+2018-04-17 15:55:31,757 - Automation Test -INFO - URL Loaded
+2018-04-17 15:55:31,758 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 15:55:42,808 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 15:55:59,966 - Automation Test -INFO - NET RET is 54.64
+2018-04-17 15:55:59,978 - Automation Test -INFO - GROSS RET is 59.06
+2018-04-17 15:55:59,978 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.42
+2018-04-17 15:55:59,994 - Automation Test -INFO - NET Alpha is 12.04
+2018-04-17 15:56:00,025 - Automation Test -INFO - GROSS Alpha is 15.35
+2018-04-17 15:56:00,025 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.31
+2018-04-17 15:58:12,589 - Automation Test -INFO - Browser Opened
+2018-04-17 15:58:12,650 - Automation Test -INFO - URL Loaded
+2018-04-17 15:58:12,651 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 16:00:33,672 - Automation Test -INFO - Browser Opened
+2018-04-17 16:00:33,685 - Automation Test -INFO - URL Loaded
+2018-04-17 16:00:33,685 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 16:00:44,526 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 17:14:19,642 - Automation Test -INFO - Browser Opened
+2018-04-17 17:14:19,713 - Automation Test -INFO - URL Loaded
+2018-04-17 17:14:19,713 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 17:14:30,913 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 17:17:43,824 - Automation Test -INFO - Browser Opened
+2018-04-17 17:17:43,890 - Automation Test -INFO - URL Loaded
+2018-04-17 17:17:43,890 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 17:17:54,791 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 17:18:12,089 - Automation Test -INFO - NET RET is 54.64
+2018-04-17 17:18:12,095 - Automation Test -INFO - GROSS RET is 59.06
+2018-04-17 17:18:12,111 - Automation Test -INFO - Difference between NET RET and GROSS RET is 4.42
+2018-04-17 17:18:12,126 - Automation Test -INFO - NET Alpha is 12.04
+2018-04-17 17:18:12,142 - Automation Test -INFO - GROSS Alpha is 15.35
+2018-04-17 17:18:12,142 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.31
+2018-04-17 17:20:45,809 - Automation Test -INFO - Browser Opened
+2018-04-17 17:20:45,859 - Automation Test -INFO - URL Loaded
+2018-04-17 17:20:45,859 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 17:20:57,142 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 17:21:14,359 - Automation Test -INFO - NET RET is 13.83
+2018-04-17 17:21:14,388 - Automation Test -INFO - GROSS RET is 15.51
+2018-04-17 17:21:14,388 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.68
+2018-04-17 17:21:14,403 - Automation Test -INFO - NET Alpha is -1.73
+2018-04-17 17:21:14,419 - Automation Test -INFO - GROSS Alpha is -1.03
+2018-04-17 17:21:14,419 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 0.7
+2018-04-17 17:38:46,267 - Automation Test -INFO - Browser Opened
+2018-04-17 17:38:46,374 - Automation Test -INFO - URL Loaded
+2018-04-17 17:38:46,374 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 17:38:57,312 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 17:41:08,477 - Automation Test -INFO - Browser Opened
+2018-04-17 17:41:08,485 - Automation Test -INFO - URL Loaded
+2018-04-17 17:41:08,486 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 17:41:19,298 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 17:41:36,452 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 17:41:36,472 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 17:41:36,472 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 17:41:36,488 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 17:41:36,504 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 17:41:36,504 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 18:05:30,743 - Automation Test -INFO - Browser Opened
+2018-04-17 18:05:30,800 - Automation Test -INFO - URL Loaded
+2018-04-17 18:05:30,801 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 18:05:42,315 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 18:05:59,470 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 18:05:59,482 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 18:05:59,482 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 18:05:59,497 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 18:05:59,513 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 18:05:59,513 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 18:15:52,667 - Automation Test -INFO - Browser Opened
+2018-04-17 18:15:52,681 - Automation Test -INFO - URL Loaded
+2018-04-17 18:15:52,681 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 18:16:03,595 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 18:16:20,798 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 18:16:20,807 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 18:16:20,807 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 18:16:20,823 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 18:16:20,838 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 18:16:20,838 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 18:19:25,323 - Automation Test -INFO - Browser Opened
+2018-04-17 18:19:25,330 - Automation Test -INFO - URL Loaded
+2018-04-17 18:19:25,331 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 18:19:36,112 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 18:19:53,239 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 18:19:53,254 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 18:19:53,255 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 18:19:53,267 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 18:19:53,283 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 18:19:53,283 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 18:23:44,794 - Automation Test -INFO - Browser Opened
+2018-04-17 18:23:44,847 - Automation Test -INFO - URL Loaded
+2018-04-17 18:23:44,847 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 18:23:55,903 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 18:24:13,129 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 18:24:13,148 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 18:24:13,148 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 18:24:13,164 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 18:24:13,180 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 18:24:13,180 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 18:34:39,411 - Automation Test -INFO - Browser Opened
+2018-04-17 18:34:39,470 - Automation Test -INFO - URL Loaded
+2018-04-17 18:34:39,470 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 18:34:50,539 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 18:35:07,881 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 18:35:07,887 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 18:35:07,887 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 18:35:07,918 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 18:35:07,934 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 18:35:07,934 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 18:39:57,753 - Automation Test -INFO - Browser Opened
+2018-04-17 18:39:58,434 - Automation Test -INFO - URL Loaded
+2018-04-17 18:39:58,435 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 18:40:09,663 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 18:40:26,991 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 18:40:27,029 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 18:40:27,029 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 18:40:27,060 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 18:40:27,076 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 18:40:27,076 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 18:43:04,457 - Automation Test -INFO - Browser Opened
+2018-04-17 18:43:04,576 - Automation Test -INFO - URL Loaded
+2018-04-17 18:43:04,576 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 18:43:15,806 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 18:43:32,983 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 18:43:32,986 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 18:43:32,986 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 18:43:33,001 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 18:43:33,017 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 18:43:33,017 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 18:43:54,334 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-17 18:44:06,350 - Automation Test -INFO - NET RET is 11.07
+2018-04-17 18:44:06,355 - Automation Test -INFO - GROSS RET is 13.11
+2018-04-17 18:44:06,355 - Automation Test -INFO - Difference between NET RET and GROSS RET is 2.04
+2018-04-17 18:44:06,386 - Automation Test -INFO - NET Alpha is 6.92
+2018-04-17 18:44:06,402 - Automation Test -INFO - GROSS Alpha is 9.02
+2018-04-17 18:44:06,402 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 2.1
+2018-04-17 19:01:26,607 - Automation Test -INFO - Browser Opened
+2018-04-17 19:01:26,613 - Automation Test -INFO - URL Loaded
+2018-04-17 19:01:26,614 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 19:01:37,352 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 19:01:54,557 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 19:01:54,569 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 19:01:54,569 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 19:01:54,585 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 19:01:54,600 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 19:01:54,600 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 19:02:15,975 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-17 19:02:27,896 - Automation Test -INFO - NET RET is 11.07
+2018-04-17 19:02:27,911 - Automation Test -INFO - GROSS RET is 13.11
+2018-04-17 19:02:27,911 - Automation Test -INFO - Difference between NET RET and GROSS RET is 2.04
+2018-04-17 19:02:27,927 - Automation Test -INFO - NET Alpha is 6.92
+2018-04-17 19:02:27,943 - Automation Test -INFO - GROSS Alpha is 9.02
+2018-04-17 19:02:27,943 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 2.1
+2018-04-17 19:18:00,536 - Automation Test -INFO - Browser Opened
+2018-04-17 19:18:00,539 - Automation Test -INFO - URL Loaded
+2018-04-17 19:18:00,539 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 19:18:11,321 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 19:18:28,475 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 19:18:28,481 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 19:18:28,497 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 19:18:28,497 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 19:18:28,513 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 19:18:28,513 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 19:18:49,776 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-17 19:19:01,680 - Automation Test -INFO - NET RET is 11.07
+2018-04-17 19:19:01,697 - Automation Test -INFO - GROSS RET is 13.11
+2018-04-17 19:19:01,697 - Automation Test -INFO - Difference between NET RET and GROSS RET is 2.04
+2018-04-17 19:19:01,712 - Automation Test -INFO - NET Alpha is 6.92
+2018-04-17 19:19:01,728 - Automation Test -INFO - GROSS Alpha is 9.02
+2018-04-17 19:19:01,728 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 2.1
+2018-04-17 19:27:34,966 - Automation Test -INFO - Browser Opened
+2018-04-17 19:27:34,966 - Automation Test -INFO - URL Loaded
+2018-04-17 19:27:34,978 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 19:27:45,857 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 19:30:03,922 - Automation Test -INFO - Browser Opened
+2018-04-17 19:30:03,929 - Automation Test -INFO - URL Loaded
+2018-04-17 19:30:03,929 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 19:30:14,717 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 19:30:31,884 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 19:30:31,904 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 19:30:31,904 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 19:30:31,935 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 19:30:31,951 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 19:30:31,951 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 19:30:53,060 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-17 19:31:05,006 - Automation Test -INFO - NET RET is 11.07
+2018-04-17 19:31:05,023 - Automation Test -INFO - GROSS RET is 13.11
+2018-04-17 19:31:05,023 - Automation Test -INFO - Difference between NET RET and GROSS RET is 2.04
+2018-04-17 19:31:05,038 - Automation Test -INFO - NET Alpha is 6.92
+2018-04-17 19:31:05,054 - Automation Test -INFO - GROSS Alpha is 9.02
+2018-04-17 19:31:05,054 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 2.1
+2018-04-17 19:49:59,080 - Automation Test -INFO - Browser Opened
+2018-04-17 19:49:59,098 - Automation Test -INFO - URL Loaded
+2018-04-17 19:49:59,099 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 19:50:09,879 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 19:50:27,080 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 19:50:27,091 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 19:50:27,091 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 19:50:27,106 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 19:50:27,122 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 19:50:27,122 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 19:50:49,243 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-17 19:51:01,204 - Automation Test -INFO - NET RET is 11.07
+2018-04-17 19:51:01,207 - Automation Test -INFO - GROSS RET is 13.11
+2018-04-17 19:51:01,207 - Automation Test -INFO - Difference between NET RET and GROSS RET is 2.04
+2018-04-17 19:51:01,222 - Automation Test -INFO - NET Alpha is 6.92
+2018-04-17 19:51:01,250 - Automation Test -INFO - GROSS Alpha is 9.02
+2018-04-17 19:51:01,252 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 2.1
+2018-04-17 23:17:41,788 - Automation Test -INFO - Browser Opened
+2018-04-17 23:17:41,885 - Automation Test -INFO - URL Loaded
+2018-04-17 23:17:41,885 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-17 23:17:53,042 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-17 23:18:11,040 - Automation Test -INFO - NET RET is 10.7
+2018-04-17 23:18:11,081 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-17 23:18:11,081 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-17 23:18:11,112 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-17 23:18:11,143 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-17 23:18:11,143 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-17 23:18:33,948 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-18 10:30:53,112 - Automation Test -INFO - Browser Opened
+2018-04-18 10:30:53,305 - Automation Test -INFO - URL Loaded
+2018-04-18 10:30:53,305 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-18 10:31:13,520 - Automation Test -INFO - Test started for fund: ACAM STRATEGY : SERIES A [CLASSD00715SERA]
+2018-04-18 10:39:17,065 - Automation Test -INFO - Browser Opened
+2018-04-18 10:39:17,069 - Automation Test -INFO - URL Loaded
+2018-04-18 10:39:17,069 - Automation Test -INFO - Total number of funds available in excel sheet is 4
+2018-04-18 10:39:37,258 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-18 10:45:49,178 - Automation Test -INFO - Browser Opened
+2018-04-18 10:45:49,187 - Automation Test -INFO - URL Loaded
+2018-04-18 10:45:49,188 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-18 10:46:00,059 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-18 10:56:50,548 - Automation Test -INFO - Browser Opened
+2018-04-18 10:56:50,553 - Automation Test -INFO - URL Loaded
+2018-04-18 10:56:50,554 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-18 10:57:01,365 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-18 10:57:18,719 - Automation Test -INFO - NET RET is 10.7
+2018-04-18 10:57:18,745 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-18 10:57:18,745 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-18 10:57:18,760 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-18 10:57:18,792 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-18 10:57:18,792 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-18 10:57:41,635 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-18 10:59:04,363 - Automation Test -INFO - Browser Opened
+2018-04-18 10:59:04,372 - Automation Test -INFO - URL Loaded
+2018-04-18 10:59:04,373 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-18 10:59:15,222 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-18 10:59:32,545 - Automation Test -INFO - NET RET is 10.7
+2018-04-18 10:59:32,553 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-18 10:59:32,553 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-18 10:59:32,569 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-18 10:59:32,584 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-18 10:59:32,584 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-18 10:59:53,807 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-18 11:00:05,845 - Automation Test -INFO - NET RET is 31.71
+2018-04-18 11:00:05,878 - Automation Test -INFO - GROSS RET is 35.54
+2018-04-18 11:00:05,878 - Automation Test -INFO - Difference between NET RET and GROSS RET is 3.83
+2018-04-18 11:00:05,893 - Automation Test -INFO - NET Alpha is 23.39
+2018-04-18 11:00:05,909 - Automation Test -INFO - GROSS Alpha is 27.35
+2018-04-18 11:00:05,909 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 3.96
+2018-04-18 11:12:43,756 - Automation Test -INFO - Browser Opened
+2018-04-18 11:12:43,762 - Automation Test -INFO - URL Loaded
+2018-04-18 11:12:43,762 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-18 11:12:54,523 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-18 11:13:11,836 - Automation Test -INFO - NET RET is 10.7
+2018-04-18 11:13:11,846 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-18 11:13:11,846 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-18 11:13:11,873 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-18 11:13:11,891 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-18 11:13:11,892 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-18 11:13:33,299 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-18 11:13:45,291 - Automation Test -INFO - NET RET is 11.07
+2018-04-18 11:13:45,312 - Automation Test -INFO - GROSS RET is 13.11
+2018-04-18 11:13:45,312 - Automation Test -INFO - Difference between NET RET and GROSS RET is 2.04
+2018-04-18 11:13:45,328 - Automation Test -INFO - NET Alpha is 6.92
+2018-04-18 11:13:45,337 - Automation Test -INFO - GROSS Alpha is 9.02
+2018-04-18 11:13:45,337 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 2.1
+2018-04-18 11:33:51,350 - Automation Test -INFO - Browser Opened
+2018-04-18 11:33:51,355 - Automation Test -INFO - URL Loaded
+2018-04-18 11:33:51,356 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-18 11:34:02,195 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-18 11:34:19,562 - Automation Test -INFO - NET RET is 10.7
+2018-04-18 11:34:19,573 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-18 11:34:19,573 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-18 11:34:19,635 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-18 11:34:19,651 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-18 11:34:19,651 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-18 11:34:40,924 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-18 11:34:52,977 - Automation Test -INFO - NET RET is 11.07
+2018-04-18 11:34:52,998 - Automation Test -INFO - GROSS RET is 13.11
+2018-04-18 11:34:52,998 - Automation Test -INFO - Difference between NET RET and GROSS RET is 2.04
+2018-04-18 11:34:53,056 - Automation Test -INFO - NET Alpha is 6.92
+2018-04-18 11:34:53,069 - Automation Test -INFO - GROSS Alpha is 9.02
+2018-04-18 11:34:53,070 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 2.1
+2018-04-18 11:40:43,621 - Automation Test -INFO - Browser Opened
+2018-04-18 11:40:43,629 - Automation Test -INFO - URL Loaded
+2018-04-18 11:40:43,630 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-18 11:40:54,359 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-18 11:41:11,658 - Automation Test -INFO - NET RET is 10.7
+2018-04-18 11:41:11,677 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-18 11:41:11,678 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-18 11:41:11,721 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-18 11:41:11,736 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-18 11:41:11,736 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-18 11:41:33,117 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-18 11:41:45,172 - Automation Test -INFO - NET RET is 11.07
+2018-04-18 11:41:45,196 - Automation Test -INFO - GROSS RET is 13.11
+2018-04-18 11:41:45,196 - Automation Test -INFO - Difference between NET RET and GROSS RET is 2.04
+2018-04-18 11:41:45,243 - Automation Test -INFO - NET Alpha is 6.92
+2018-04-18 11:41:45,259 - Automation Test -INFO - GROSS Alpha is 9.02
+2018-04-18 11:41:45,259 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 2.1
+2018-04-18 18:15:15,079 - Automation Test -INFO - Browser Opened
+2018-04-18 18:15:15,123 - Automation Test -INFO - URL Loaded
+2018-04-18 18:15:15,123 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-18 18:15:26,667 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-18 18:15:44,514 - Automation Test -INFO - NET RET is 10.7
+2018-04-18 18:15:44,546 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-18 18:15:44,546 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-18 18:15:44,624 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-18 18:15:44,655 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-18 18:15:44,655 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-18 18:16:06,662 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-19 14:41:27,773 - Automation Test -INFO - Browser Opened
+2018-04-19 14:41:27,827 - Automation Test -INFO - URL Loaded
+2018-04-19 14:41:27,827 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-19 14:41:39,032 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-19 14:43:27,902 - Automation Test -INFO - Browser Opened
+2018-04-19 14:43:27,902 - Automation Test -INFO - URL Loaded
+2018-04-19 14:43:27,902 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-19 14:44:07,546 - Automation Test -INFO - Browser Opened
+2018-04-19 14:44:07,555 - Automation Test -INFO - URL Loaded
+2018-04-19 14:44:07,556 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-19 14:44:18,361 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-19 14:44:35,739 - Automation Test -INFO - NET RET is 10.7
+2018-04-19 14:44:35,746 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-19 14:44:35,746 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-19 14:44:35,808 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-19 14:44:35,824 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-19 14:44:35,824 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-19 14:44:58,590 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-19 14:48:57,319 - Automation Test -INFO - Browser Opened
+2018-04-19 14:48:57,389 - Automation Test -INFO - URL Loaded
+2018-04-19 14:48:57,390 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-19 14:49:08,318 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-19 14:49:25,727 - Automation Test -INFO - NET RET is 10.7
+2018-04-19 14:49:25,745 - Automation Test -INFO - GROSS RET is 11.8
+2018-04-19 14:49:25,745 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.1
+2018-04-19 14:49:25,791 - Automation Test -INFO - NET Alpha is 6.55
+2018-04-19 14:49:25,807 - Automation Test -INFO - GROSS Alpha is 7.74
+2018-04-19 14:49:25,807 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 1.19
+2018-04-19 14:49:50,339 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]
+2018-04-19 14:50:02,387 - Automation Test -INFO - NET RET is 11.07
+2018-04-19 14:50:02,403 - Automation Test -INFO - GROSS RET is 13.11
+2018-04-19 14:50:02,403 - Automation Test -INFO - Difference between NET RET and GROSS RET is 2.04
+2018-04-19 14:50:02,450 - Automation Test -INFO - NET Alpha is 6.92
+2018-04-19 14:50:02,465 - Automation Test -INFO - GROSS Alpha is 9.02
+2018-04-19 14:50:02,465 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 2.1
+2018-04-20 16:15:19,963 - Automation Test -INFO - Browser Opened
+2018-04-20 16:15:20,209 - Automation Test -INFO - URL Loaded
+2018-04-20 16:15:20,210 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-20 16:15:32,059 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-20 17:17:15,978 - Automation Test -INFO - Browser Opened
+2018-04-20 17:17:16,138 - Automation Test -INFO - URL Loaded
+2018-04-20 17:17:16,139 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-20 17:17:28,428 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-20 17:17:46,274 - Automation Test -INFO - NET RET is 14.41
+2018-04-20 17:17:46,360 - Automation Test -INFO - GROSS RET is 16.09
+2018-04-20 17:17:46,360 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.68
+2018-04-20 17:17:46,431 - Automation Test -INFO - NET Alpha is -2.15
+2018-04-20 17:17:46,452 - Automation Test -INFO - GROSS Alpha is -1.47
+2018-04-20 17:17:46,453 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 0.68
+2018-04-23 12:39:03,773 - Automation Test -INFO - Browser Opened
+2018-04-23 12:39:03,978 - Automation Test -INFO - URL Loaded
+2018-04-23 12:39:03,979 - Automation Test -INFO - Total number of funds available in excel sheet is 2
+2018-04-23 12:39:15,272 - Automation Test -INFO - Test started for fund: Birla Sun Life Advantage Fund [ADVG]
+2018-04-23 12:39:33,869 - Automation Test -INFO - NET RET is 14.17
+2018-04-23 12:39:33,891 - Automation Test -INFO - GROSS RET is 15.84
+2018-04-23 12:39:33,892 - Automation Test -INFO - Difference between NET RET and GROSS RET is 1.67
+2018-04-23 12:39:33,962 - Automation Test -INFO - NET Alpha is -2.05
+2018-04-23 12:39:33,978 - Automation Test -INFO - GROSS Alpha is -1.21
+2018-04-23 12:39:33,979 - Automation Test -INFO - Difference between NET Alpha and GROSS Alpha is 0.84
+2018-04-23 12:40:13,633 - Automation Test -INFO - Test started for fund: Birla Sun Life Pure Value Fund [PURE]

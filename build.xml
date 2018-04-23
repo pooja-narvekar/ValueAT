@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- WARNING: Eclipse auto-generated file.
+              Any modifications will be overwritten.
+              To include a user specific buildfile here, simply create one in the same
+              directory with the processing instruction <?eclipse.ant.import?>
+              as the first entry and export the buildfile again. --><project basedir="." default="build" name="ValueAT">
+    <property environment="env"/>
+    <property name="ECLIPSE_HOME" value="C:/Users/hp/eclipse/jee-oxygen/eclipse/"/>
+    <property name="junit.output.dir" value="junit"/>
+    <property name="debuglevel" value="source,lines,vars"/>
+    <property name="target" value="1.8"/>
+    <property name="source" value="1.8"/>
+    <path id="ValueAT.classpath">
+        <pathelement location="bin"/>
+        <pathelement location="All Jars/commons-codec-1.10.jar"/>
+        <pathelement location="All Jars/commons-collections4-4.1.jar"/>
+        <pathelement location="All Jars/commons-logging-1.2.jar"/>
+        <pathelement location="All Jars/curvesapi-1.04.jar"/>
+        <pathelement location="All Jars/junit-4.12.jar"/>
+        <pathelement location="All Jars/log4j-1.2.15.jar"/>
+        <pathelement location="All Jars/log4j-1.2.17.jar"/>
+        <pathelement location="All Jars/poi-3.17.jar"/>
+        <pathelement location="All Jars/poi-examples-3.17.jar"/>
+        <pathelement location="All Jars/poi-excelant-3.17.jar"/>
+        <pathelement location="All Jars/poi-ooxml-3.17.jar"/>
+        <pathelement location="All Jars/poi-ooxml-schemas-3.17.jar"/>
+        <pathelement location="All Jars/poi-scratchpad-3.17.jar"/>
+        <pathelement location="All Jars/xmlbeans-2.6.0.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/extentreports-2.41.2.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/ant-1.7.0.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/ant-launcher-1.7.0.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/bsh-2.0b4.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/bson-3.0.4.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/freemarker-2.3.23.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/hamcrest-core-1.1.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/jcommander-1.48.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/jsoup-1.8.3.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/junit-4.10.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/mongodb-driver-3.0.4.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/mongodb-driver-core-3.0.4.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/snakeyaml-1.15.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/sqlite-jdbc-3.8.11.1.jar"/>
+        <pathelement location="All Jars/Extent Report Jars/extentreports-java-2.41.2/lib/testng-6.9.9.jar"/>
+        <pathelement location="All Jars/Log4j/jxl-2.4.2.jar"/>
+        <pathelement location="All Jars/Log4j/log4j-api-2.5.jar"/>
+        <pathelement location="All Jars/Log4j/log4j-api-2.10.0.jar"/>
+        <pathelement location="All Jars/Log4j/log4j-core.jar"/>
+        <pathelement location="All Jars/Log4j/log4j-core-2.5.jar"/>
+        <pathelement location="All Jars/Log4j/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+        <pathelement location="All Jars/selenium-server-standalone-3.11.0.jar"/>
+    </path>
+    <target name="init">
+        <mkdir dir="bin"/>
+        <copy includeemptydirs="false" todir="bin">
+            <fileset dir="src">
+                <exclude name="**/*.launch"/>
+                <exclude name="**/*.java"/>
+            </fileset>
+        </copy>
+    </target>
+    <target name="clean">
+        <delete dir="bin"/>
+    </target>
+    <target depends="clean" name="cleanall"/>
+    <target depends="build-subprojects,build-project" name="build"/>
+    <target name="build-subprojects"/>
+    <target depends="init" name="build-project">
+        <echo message="${ant.project.name}: ${ant.file}"/>
+        <javac debug="true" debuglevel="${debuglevel}" destdir="bin" includeantruntime="false" source="${source}" target="${target}">
+            <src path="src"/>
+            <classpath refid="ValueAT.classpath"/>
+        </javac>
+    </target>
+    <target description="Build all projects which reference this project. Useful to propagate changes." name="build-refprojects"/>
+    <target description="copy Eclipse compiler jars to ant lib directory" name="init-eclipse-compiler">
+        <copy todir="${ant.library.dir}">
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </copy>
+        <unzip dest="${ant.library.dir}">
+            <patternset includes="jdtCompilerAdapter.jar"/>
+            <fileset dir="${ECLIPSE_HOME}/plugins" includes="org.eclipse.jdt.core_*.jar"/>
+        </unzip>
+    </target>
+    <target description="compile project with Eclipse compiler" name="build-eclipse-compiler">
+        <property name="build.compiler" value="org.eclipse.jdt.core.JDTCompilerAdapter"/>
+        <antcall target="build"/>
+    </target>
+    <target name="DownloadedExcelFileReader">
+        <java classname="ValueATTest.DownloadedExcelFileReader" failonerror="true" fork="yes">
+            <classpath refid="ValueAT.classpath"/>
+        </java>
+    </target>
+    <target name="Sample (1)">
+        <java classname="ValueATTest.Sample" failonerror="true" fork="yes">
+            <classpath refid="ValueAT.classpath"/>
+        </java>
+    </target>
+    <target name="Sample">
+        <java classname="Common.Sample" failonerror="true" fork="yes">
+            <classpath refid="ValueAT.classpath"/>
+        </java>
+    </target>
+    <target name="test">
+        <java classname="ValueATTest.test" failonerror="true" fork="yes">
+            <classpath refid="ValueAT.classpath"/>
+        </java>
+    </target>
+    <target name="TestFundOperations (1)">
+        <mkdir dir="${junit.output.dir}"/>
+        <junit fork="yes" printsummary="withOutAndErr">
+            <formatter type="xml"/>
+            <test name="ValueATTest.TestFundOperations" todir="${junit.output.dir}"/>
+            <jvmarg line="-ea"/>
+            <classpath refid="ValueAT.classpath"/>
+        </junit>
+    </target>
+    <target name="TestFundOperations (2)">
+        <java classname="ValueATTest.TestFundOperations" failonerror="true" fork="yes">
+            <classpath refid="ValueAT.classpath"/>
+        </java>
+    </target>
+    <target name="junitreport">
+        <junitreport todir="${junit.output.dir}">
+            <fileset dir="${junit.output.dir}">
+                <include name="TEST-*.xml"/>
+            </fileset>
+            <report format="frames" todir="${junit.output.dir}"/>
+        </junitreport>
+    </target>
+</project>
